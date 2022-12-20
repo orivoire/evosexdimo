@@ -9,3 +9,5 @@ Julia implementation of a model for studying the evolution of sexual dimorphism 
 - `evodi.jl`    : Julia module with basic functions
 - `figs.ipynb`  : Jupyter notebook generating all figures of the paper
 - `calcs.ipynb` : Jupyter notebook producing all data represented in the figures
+
+Data produced in `calcs.ipynb` and used in `figs.ipynb` is stored in `_Outputs/`
